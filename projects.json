@@ -49,5 +49,22 @@
     ],
     "adminName": "Anchal Singh",
     "linkedIn": "https://www.linkedin.com/in/imanchalsingh/"
-  }
+  },
+
+  {
+  "owner": "prabhakarshukla",
+  "repo": "EduFlow_AI",
+  "projectName": "EduFlow AI",
+  "description": "EduFlow AI is a platform made to help students manage their studies in a smarter and easier way. It brings together useful features like an AI doubt solver, study planner, AI notes generator, productivity tracker, mood tracker, reminders, streaks, PDF export, and shareable notes — all in one place.\n\nThe main goal of the project is to make studying more organized, productive, and less stressful for students. EduFlow AI is built using modern web technologies and AI tools, and it also welcomes open-source contributors who want to help improve the project, add features, and enhance the overall user experience.",
+  "techStack": [
+      "React",
+      "Typescript",
+      "Tailwind CSS",
+      "Next.js", 
+      "React", 
+      "Supabase",
+    ],
+  "adminName": "prabhakar shukla",
+  "linkedIn": "https://www.linkedin.com/in/prabhakar-shukla-90334b399/"
+}
 ]
